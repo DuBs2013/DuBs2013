@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @DuBs2013
 - 👀 I’m interested in the path to software engineering
-- 🌱 I’m currently learning Python3, HTML, CSS and JavaScript
+- 🌱 I’m currently undertaking a Full Stack Developer Certification course through the University of Texas at Austin
 - 📫 One can reach out to me at unseenhades13@gmail.com
 
 <!---
